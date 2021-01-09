@@ -1,0 +1,1 @@
+A chip8 emulator in a single python file. Not yet complete, input doesn't work yet, but most other things do.
